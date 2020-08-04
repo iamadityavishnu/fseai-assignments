@@ -1,0 +1,46 @@
+aiofiles==0.5.0
+blinker==1.4
+brotlipy==0.7.0
+certifi==2020.6.20
+cffi @ file:///home/conda/feedstock_root/build_artifacts/cffi_1595805769248/work
+chardet==3.0.4
+click==7.1.2
+cryptography @ file:///home/conda/feedstock_root/build_artifacts/cryptography_1595348770643/work
+fastapi @ file:///home/conda/feedstock_root/build_artifacts/fastapi_1595264771260/work
+graphene==1.4
+graphql-core @ file:///home/conda/feedstock_root/build_artifacts/graphql-core_1593979029761/work
+graphql-relay==3.0.0
+gunicorn==20.0.4
+h11==0.8.1
+httptools==0.1.1
+idna @ file:///home/conda/feedstock_root/build_artifacts/idna_1593328102638/work
+itsdangerous==1.1.0
+Jinja2==2.11.2
+MarkupSafe==1.1.1
+mkl-fft==1.1.0
+mkl-random==1.1.1
+mkl-service==2.3.0
+numpy @ file:///tmp/build/80754af9/numpy_and_numpy_base_1596233721170/work
+oauthlib==3.0.1
+pandas @ file:///tmp/build/80754af9/pandas_1592841659173/work
+promise==2.3
+pycparser @ file:///home/conda/feedstock_root/build_artifacts/pycparser_1593275161868/work
+pydantic @ file:///home/conda/feedstock_root/build_artifacts/pydantic_1594889015043/work
+PyJWT==1.7.1
+pyOpenSSL==19.1.0
+PySocks==1.7.1
+python-dateutil==2.8.1
+python-multipart==0.0.5
+pytz==2020.1
+PyYAML==5.3.1
+requests @ file:///home/conda/feedstock_root/build_artifacts/requests_1592425495151/work
+requests-oauthlib @ file:///home/conda/feedstock_root/build_artifacts/requests-oauthlib_1595492159598/work
+six @ file:///home/conda/feedstock_root/build_artifacts/six_1590081179328/work
+starlette @ file:///home/conda/feedstock_root/build_artifacts/starlette_1588747653335/work
+tweepy @ file:///home/conda/feedstock_root/build_artifacts/tweepy_1594498408379/work
+ujson @ file:///home/conda/feedstock_root/build_artifacts/ujson_1596373331954/work
+urllib3 @ file:///home/conda/feedstock_root/build_artifacts/urllib3_1595434816409/work
+uvicorn @ file:///home/conda/feedstock_root/build_artifacts/uvicorn_1589288729898/work
+uvloop==0.14.0
+websockets==8.1
+wsproto==0.13.0
