@@ -42,5 +42,5 @@ ujson @ file:///home/conda/feedstock_root/build_artifacts/ujson_1596373331954/wo
 urllib3 @ file:///home/conda/feedstock_root/build_artifacts/urllib3_1595434816409/work
 uvicorn @ file:///home/conda/feedstock_root/build_artifacts/uvicorn_1589288729898/work
 uvloop==0.14.0
-websockets==8.1
+websockets==9.1
 wsproto==0.13.0
