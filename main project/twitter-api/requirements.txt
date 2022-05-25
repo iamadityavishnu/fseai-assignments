@@ -26,7 +26,7 @@ pandas @ file:///tmp/build/80754af9/pandas_1592841659173/work
 promise==2.3
 pycparser @ file:///home/conda/feedstock_root/build_artifacts/pycparser_1593275161868/work
 pydantic @ file:///home/conda/feedstock_root/build_artifacts/pydantic_1594889015043/work
-PyJWT==1.7.1
+PyJWT==2.4.0
 pyOpenSSL==19.1.0
 PySocks==1.7.1
 python-dateutil==2.8.1
